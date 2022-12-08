@@ -1,0 +1,69 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "OrionTestAPIContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "OrionTestAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[AddressClient]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Client]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AddAddressToClient]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[AddClient]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteAddressToClient]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[DeleteClient]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateAddressToClient]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[UpdateClient]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "MANGATHRON3.OrionTestAPI",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
